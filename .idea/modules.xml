@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cadastroclientes.iml" filepath="$PROJECT_DIR$/.idea/modules/cadastroclientes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cadastroclientes.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cadastroclientes.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cadastroclientes.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cadastroclientes.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cadastroclientes.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cadastroclientes.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cadastroclientes.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cadastroclientes.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
